@@ -6,7 +6,7 @@ Hi, I'm Prerana 👋
 - Python, MySQL
 - Unity (Game Development)
 - Data Analysis
-- AWS (S3, CloudFront)
+- AWS Services
 
 🏆 Achievements:
 - 🥇 1st Prize – Game Development Competition
